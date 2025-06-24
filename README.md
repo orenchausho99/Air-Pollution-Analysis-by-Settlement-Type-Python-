@@ -1,4 +1,4 @@
-# Air-Pollution-Analysis-by-Settlement-Type-Python-
+# Air Pollution Analysis by Settlement Type (Python)
 
 ## Overview
 This project analyzes differences in air pollution levels across various types of settlements in Israel (e.g., urban, rural, suburban). Due to non-normal data distribution, non-parametric statistical methods were applied.
